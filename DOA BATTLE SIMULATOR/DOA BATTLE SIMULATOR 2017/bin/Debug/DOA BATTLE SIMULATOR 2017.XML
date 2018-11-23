@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DOA BATTLE SIMULATOR 2017</name>
+    </assembly>
+    <members>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Auth.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Auth.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Auth.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Config.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Config.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Config.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Config2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Config2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Config2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.ConfigAtt.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.ConfigAtt.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.ConfigAtt.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.ConfigDef.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.ConfigDef.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.ConfigDef.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Crypter.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Crypter.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Crypter.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Debug.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Debug.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Debug.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DOA_BATTLE_SIMULATOR_2017.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:DOA_BATTLE_SIMULATOR_2017.Visualizer">
+            <summary>
+            A Visualizer for SomeType.  
+            </summary>
+        </member>
+        <member name="M:DOA_BATTLE_SIMULATOR_2017.Visualizer.TestShowVisualizer(System.Object)">
+            <summary>
+            Tests the visualizer by hosting it outside of the debugger.
+            </summary>
+            <param name="objectToVisualize">The object to display in the visualizer.</param>
+        </member>
+        <member name="T:DOA_BATTLE_SIMULATOR_2017.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DOA_BATTLE_SIMULATOR_2017.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DOA_BATTLE_SIMULATOR_2017.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

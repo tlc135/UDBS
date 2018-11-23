@@ -1,0 +1,117 @@
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojResolveAssemblyReference.cache
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.Cache
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+c:\users\tlc\documents\visual studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Crypter.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.Cache
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojResolveAssemblyReference.cache
+C:\Users\TLC\Documents\Visual Studio 2015\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.XML
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.XML
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojResolveAssemblyReference.cache
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Crypter.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.Cache
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\DATA\Visual Studio\Visual Studio 2015 (actuel)\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.XML
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojResolveAssemblyReference.cache
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Crypter.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.Cache
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.CoreCompileInputs.cache
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
+C:\Users\TLC\Documents\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\MetroFramework.dll
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.XML
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\MetroFramework.dll
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojResolveAssemblyReference.cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Crypter.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.Cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.CoreCompileInputs.cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR 2017 - Local\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe.config
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.XML
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.exe
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\DOA BATTLE SIMULATOR 2017.pdb
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\MetroFramework.dll
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\bin\Debug\fr\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csprojAssemblyReference.cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Auth.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Config2.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigAtt.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.ConfigDef.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Crypter.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Debug.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Form1.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA_BATTLE_SIMULATOR_2017.Properties.Resources.resources
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.GenerateResource.cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.CoreCompileInputs.cache
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.csproj.CopyComplete
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.exe
+D:\Docs\Visual Studio Old\Visual Studio 2017\Projects\DOA BATTLE SIMULATOR\DOA BATTLE SIMULATOR 2017\obj\Debug\DOA BATTLE SIMULATOR 2017.pdb
